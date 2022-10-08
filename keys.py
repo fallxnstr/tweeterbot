@@ -1,0 +1,5 @@
+api_key = "x"
+api_secret = "x"
+bearer_token = "x"
+access_token = "x"
+access_token_secret = "x"
